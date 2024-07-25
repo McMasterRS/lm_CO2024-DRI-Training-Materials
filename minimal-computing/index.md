@@ -11,6 +11,10 @@ has_toc: true
 ![minimal_computing_intro_image](assets/img/minimal_computing_intro_image.png) 
 _Image retrieved from [https://jntry.work/minimalcomputing/](https://jntry.work/minimalcomputing/)_
 
+Minimal computing refers to a set of practices aimed at simplifying digital technologies and workflows to reduce computation resource consumption and dependency on complex software structures. As mentioned previously, minimizing dependencies is one of the key consideration for selecting a software packages for reproducible research.  
+
+Minimal computing focuses sustainability, emphasizing long-term maintenance and durability of software projects and promoting reuse.  
+
 Throughout this learning module, you will explore the principles and practices of minimal computing, a methodology focused on simplicity, accessibility, and sustainability in digital projects.
 
 1. **Introduction to Minimal Computing**: This section introduces the concept of minimal computing, discussing its advantages and disadvantages.
@@ -19,11 +23,3 @@ Throughout this learning module, you will explore the principles and practices o
 4. **Building a Minimal Computing Site**: Learn how to create a minimal computing site from scratch using the Jekyll tool.
 5. **Customizing a Minima Jekyll Theme**: Discover how to customize a minimal computing site that uses the Minima theme.
 6. **Hosting a Minimal Computing Site on GitHub Pages**: Finally, explore how to host a minimal computing site on GitHub Pages.
-
-### Learning Outcomes:
-
-By the end of this module, readers will:
-- Understand the principles and significance of minimal computing.
-- Apply strategies for effectively preserving digital content.
-- Create and customize minimal computing sites using Jekyll.
-- Deploy and host minimal computing sites on GitHub Pages.
