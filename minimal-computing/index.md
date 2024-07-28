@@ -13,7 +13,7 @@ _Image retrieved from [https://jntry.work/minimalcomputing/](https://jntry.work/
 
 Minimal computing refers to a set of practices aimed at simplifying digital technologies and workflows to reduce computation resource consumption and dependency on complex software structures. As a benefit, minimal computing software emphasizes long-term maintenance and results in sustainable and durable software. Minimal computing is a design that implements the principles of reusable computer code and software. 
 
-Throughout this learning module, you will explore the principles and practices of minimal computing, a methodology focused on simplicity, accessibility and sustainability in digital projects. We will demonstrate this design when building web sites, using the publicly available tool Jekyll for building web sites, and GitHub Pages to host these generate web sites.
+Throughout this learning module, you will explore the principles and practices of minimal computing, a methodology focused on simplicity, accessibility and sustainability in digital projects. We will demonstrate this design when building web sites, using the publicly available tool Jekyll for building web sites, and GitHub Pages to host these generate web sites. Using GitHub as part of the technology stack directly supports reproducible software by being free, publicly-accessible and integrated with the GitHub cloud version control system.
 
 1. **Introduction to Minimal Computing**: This section introduces the concept of minimal computing, discussing its advantages and disadvantages.
 2. **Website Preservation**: This section introduces the concept of website preservation and provides steps for preserving a site using the Heritrix tool.
