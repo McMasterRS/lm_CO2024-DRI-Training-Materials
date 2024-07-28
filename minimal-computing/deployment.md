@@ -6,6 +6,7 @@ nav_order: 11
 ---
 
 ## Host minimal computing site on GitHub pages 
+Jekyll can be used to generate web pages for a variety of web hosting tools. Here we describe how to host these Jekyll pages with GitHub Pages.
 
 ### A. Creating a repository on GitHub
 1. Login to GitHub. 
