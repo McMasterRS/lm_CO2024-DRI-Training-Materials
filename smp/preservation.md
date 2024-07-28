@@ -11,7 +11,7 @@ Preservation and sustainability in research software management refer to practic
 
 1. Storage
 
-    Code of actively developed or maintained software can be stored in public cloud version control management services (e.g. GitHub) where it can be maintained to prevent degredation or obselescence. These public services allow interested parties to find the latest code and documentation of any changes.
+    Code of actively developed or maintained software can be stored in public cloud version control management services (e.g. GitHub) where it can be maintained to prevent degredation or obselescence, and new versions can be released and found. These public services allow interested parties to find the latest code and documentation of any changes.
 
    Long term storage, especially for references to the software that will live long after the project (e.g. in publications), require more persistent storage (e.g. Zenodo). Associating this long term storage with a persistent identifier (e.g. a Digital Object Identifier - DOI) will greatly assist reproducibility through operation of the exact version used to generate the research results. Findability of the software by the research community is improved as these DOIs are indexed and can be used to persistently and reliably point to this storage.
 
