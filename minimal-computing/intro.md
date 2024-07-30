@@ -7,12 +7,15 @@ nav_order: 1
 
 ## Introduction to Minimal Computing
 
-Minimal computing is the idea of doing the most with the least technology possible, computing done under some set of significant constraints of hardware, software, education, network capacity, power, or other factors. Minimal computing emphasizes simplicity, efficiency, and a focus on the essential elements needed to accomplish a task or project. It seeks to make digital resources more available, particularly in constrained environments or for individuals and communities with limited access to high-end computing infrastructure.  
+Minimal computing is the idea of doing the most with the least technology possible; computing done under some set of meaningful constraints of hardware, software, education, network capacity, power, or other factors. Minimal computing emphasizes simplicity, efficiency and a focus on the essential elements needed to accomplish a task or project. It seeks to make digital resources more available, particularly in constrained environments or for individuals and communities with limited access to high-end computing infrastructure.  
 
-In the context of web development, minimal computing often involves the use of static site generators and tools that reduce the reliance to heavy processing on server side and client side and the dependency on complex infrastructures (e.g. databases). That being said, minimal computing is not always the perfect pathway in web development. Due to the limited faunctionality, minimal computing techniques can hardly be used in featureful website. However, with minimal computing techniques, developers can create websites that are fast and responsive, more secure and easier to maintain.  
+In the context of web development, minimal computing can include static site generators, as well as dynamic tools designed to minimise heavy processing on the server and client sides, and the dependency on complex infrastructures and deep technology stacks. That being said, minimal computing is not always the perfect pathway in web development. Minimal computing results in some self-imposed limitations on some non-standard functionality and choosing to exclude extraneous features. As a result, minimal computing techniques may not be ideal for web sites with broad feature sets. However, with minimal computing techniques, developers can create web sites full of common functionality that are fast, responsive, more secure, and easier to maintain.  
 
-Here are some fo the key benefits of minimal computing in web development,  
+Here are some fo the key benefits of minimal computing in web development:  
 
-- **Simplicity**, Use straightforward web technologies, like plain HTML, CSS and JavaScript, and avoid the unnecessary complexity that comes with using large development frameworks or libraries.  
-- **Efficiency**, Optimize resources to ensure fast load times and minimal server load, by optimizing imagery assets and minimizing HTTP requests.  
-- **Accessibility**, Ensure web applications are accessible to users with different levels of internet connectivity and device capabilities.  
+- **Simplicity**: Uses straightforward, standardized, client-side web technologies, like plain HTML, CSS and client-side JavaScript, and avoids the unnecessary complexity that comes with using multiple extensive development libraries and avoiding server-side technologies.  
+- **Efficiency**: Enables fast load times and minimal server load by minimizing HTTP requests and optimizing imagery assets and resources.  
+- **Accessibility**: Simplicity and efficiency helps ensure web applications are accessible to users with different levels of internet connectivity and device capabilities.
+- **Longevity**: Simplicity, efficiency and accessibility helps ensure little to no maintenance is required, making for long lasting, durable web sites.
+
+Minimal computing is not a binary state; a web site cannot be categorised as minimal compluting or not. However, by following the principles outlined in the minimal computing concepts explained herein, the more these benefits are realised. For Research Software, these benefits lead to greater accessibility, easier and more complete preservation, and greater reproducibility and reuse, all important FAIR principles for open research.
