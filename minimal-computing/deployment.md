@@ -13,7 +13,7 @@ Jekyll can be used to generate web pages for a variety of web hosting tools. Her
 2. From the menu go to “Your repositories.” 
 3. Click on “New” button to create a new repository. 
 4. Select the Owner. 
-5. Type the repository name. For example, “minima-template” 
+5. Type the repository name. For example, “minima-template”.
 6. Check the checkbox to add a README file. 
 7. Click on “Create repository” button. 
 
