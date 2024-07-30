@@ -3,7 +3,6 @@ layout: home
 title: Minimal Computing
 nav_order: 6
 has_children: true
-has_toc: true
 ---
 
 ## Minimal Computing
@@ -16,8 +15,7 @@ Minimal computing refers to a set of practices aimed at simplifying digital tech
 Throughout this learning module, you will explore the principles and practices of minimal computing, a methodology focused on simplicity, accessibility and sustainability in digital projects. We will demonstrate this design when building web sites, using the publicly available tool Jekyll for building web sites, and GitHub Pages to host these generate web sites. Using GitHub as part of the technology stack directly supports reproducible software by being free, publicly-accessible and integrated with the GitHub cloud version control system.
 
 1. **Introduction to Minimal Computing**: This section introduces the concept of minimal computing, discussing its advantages and disadvantages.
-2. **Website Preservation**: This section introduces the concept of website preservation and provides steps for preserving a site using the Heritrix tool.
-3. **WordPress Site Preservation**: Here, we offer examples of two tools, All-in-One WP Migration and Simply Static, along with steps for preserving a WordPress site.
-4. **Building a Minimal Computing Site**: Learn how to create a minimal computing site from scratch using the Jekyll tool.
-5. **Customizing a Minima Jekyll Theme**: Discover how to customize a minimal computing site that uses the Minima theme.
-6. **Hosting a Minimal Computing Site on GitHub Pages**: Finally, explore how to host a minimal computing site on GitHub Pages.
+2. **Building a Minimal Computing Site**: Learn how to create a minimal computing site from scratch using Jekyll.
+3. **Customizing a Minima Jekyll Theme**: Discover how to customize a minimal computing site that uses the Minima theme.
+4. **Building a Minimal Computing Site with Idyll**: Learn how to create a minimal computing site from scratch using Idyll.
+5. **Hosting a Minimal Computing Site on GitHub Pages**: Finally, explore how to host a minimal computing site on GitHub Pages.
