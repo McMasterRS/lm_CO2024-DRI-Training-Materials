@@ -2,6 +2,7 @@
 layout: home
 title: Minimal Computing
 nav_order: 6
+has_toc: false
 has_children: true
 ---
 
