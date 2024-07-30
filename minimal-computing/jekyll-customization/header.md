@@ -2,7 +2,7 @@
 layout: page
 title: Customizing a Minima Jekyll theme - Customize Header and Navbar
 parent: Minimal Computing
-nav_order: 4
+nav_order: 5
 ---
 
 ## Steps to modify the Header and include a custom Navbar 

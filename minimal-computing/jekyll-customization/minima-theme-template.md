@@ -2,7 +2,7 @@
 layout: default
 title: Customizing a Minima Jekyll theme - Clone the customized Minima theme template
 parent: Minimal Computing
-nav_order: 9
+nav_order: 10
 ---
 
 ## Clone the customized Minima theme template

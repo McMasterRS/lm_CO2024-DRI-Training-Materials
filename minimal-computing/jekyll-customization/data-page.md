@@ -2,7 +2,7 @@
 layout: default
 title: Customizing a Minima Jekyll theme - Customize data page
 parent: Minimal Computing
-nav_order: 7
+nav_order: 8
 ---
 
 ## Steps to create a page that loads data from a data file

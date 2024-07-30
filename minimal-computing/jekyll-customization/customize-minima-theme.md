@@ -2,7 +2,7 @@
 layout: default
 title: Customizing a Minima Jekyll theme
 parent: Minimal Computing
-nav_order: 2
+nav_order: 3
 ---
 
 # Steps to customize a minima Jekyll theme

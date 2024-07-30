@@ -2,7 +2,7 @@
 layout: default
 title: Customizing a Minima Jekyll theme - Customize about page
 parent: Minimal Computing
-nav_order: 8
+nav_order: 9
 ---
 
 ## Customize the default about page `about.markdown` in the Minima theme

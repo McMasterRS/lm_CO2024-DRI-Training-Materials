@@ -2,7 +2,7 @@
 layout: default
 title: Customizing a Minima Jekyll theme - Customize landing page
 parent: Minimal Computing
-nav_order: 6
+nav_order: 7
 ---
 
 ## Customize the default landing page `index.markdown` in the Minima theme

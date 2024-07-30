@@ -2,7 +2,7 @@
 layout: default
 title: Customizing a Minima Jekyll theme - Customize Footer
 parent: Minimal Computing
-nav_order: 5
+nav_order: 6
 ---
 
 ### Create a File Named `footer_pages.yml` in `_data` folder

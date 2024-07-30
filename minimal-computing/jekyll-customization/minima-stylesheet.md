@@ -2,7 +2,7 @@
 layout: default
 title: Customizing a Minima Jekyll theme - Override Minima Stylesheet
 parent: Minimal Computing
-nav_order: 2
+nav_order: 4
 ---
 
 ## Override minima stylesheet

@@ -2,7 +2,7 @@
 layout: default
 title: Hosting Minimal Computing Site on GitHub Pages
 parent: Minimal Computing
-nav_order: 11
+nav_order: 12
 ---
 
 ## Host minimal computing site on GitHub pages 

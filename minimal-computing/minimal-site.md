@@ -2,7 +2,7 @@
 layout: default
 title: Building a Minimal Computing Site
 parent: Minimal Computing
-nav_order: 1
+nav_order: 2
 ---
 
 ## Building a minimal computing site
