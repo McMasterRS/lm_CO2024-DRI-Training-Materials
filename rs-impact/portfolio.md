@@ -15,7 +15,9 @@ To generate a DOI for software, we will use the public and popular [Zenodo](http
 
 In this example, we will demonstrate how to create a repository on Zenodo directly from your _public_ repository on GitHub. (You cannot create a DOI to a private repository.) Per your Software Management Plan, this repository should include your software license as well as licenses for any software libraries included.
 
-It is worth noting here, again, that while GitHub is a good version control system for managing software versions, performing collaborative development, it is not considered a persistent repository for software. There are too many reaosons why a git repository might have its location or reference change. We use Zenodo in this example as such a persistent software repository, which is necessary for identifiers like DOIs to be persistent.
+It is worth noting here, again, that cloud-based version control systems (e.g. GitHub, GitLab, BitBucket) are good for managing software versions and performing collaborative development, they are not considered persistent repositories for software. There are many reasons why a git repository might have its location or reference change. We use Zenodo in this example as such a persistent software repository, which is necessary for identifiers like DOIs to be persistent.
+
+Furthermore, Zenodo is not the only persistent software repository that provides DOIs and integrates with cloud-based version control systems. For example. [figshare.com](https://figshare.com/) also meets these criteria. However, rather than attempting to document all possible scenarios, instead we demonstrate how to follow a common path for depositing software and inter-connecting PIDs such as ORCIDs and DOIs to start building a researcher profile today.
 
 ### Steps to Generate a DOI for Your Research Software
 
@@ -60,4 +62,10 @@ You will see the new entry in the ORCID work record.
 
 ![orcid-4](assets/img/orcid-4.png)  
 
-At this point you will have deposited a persistent copy of your software release on Zenodo, created a DOI for this software project and release, and linked this work with your ORCID profile. 
+At this point you have deposited a persistent copy of your software release on Zenodo, created a DOI for this software project and release, and linked this work with your personal persistent ORCID profile. You have started building your researcher portfolio. Future persistent identifiers that you create and associate with your ORCID will automaticaly be associated with your research profile going forward. 
+
+### Start Today
+
+There are is a low threshold, both in effort and qualifications, to create persistent identifiers for yourself and your software. Don't wait until the information or code is lost or at risk of being lost. It is much easier to persistently deposit and create reference identities (PIDs/DOIs) to software and other research objects at the time of creation and relevance, and out of habit, than after the fact and many at once. 
+
+Start today!
