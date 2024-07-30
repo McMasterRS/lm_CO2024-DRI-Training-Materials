@@ -30,7 +30,7 @@ Code commenting is often done manually and can be a time-consuming process. Many
 
 One might be interested in seeing the details of the code for an analysis when a researcher is curious about how a specific process is designed to reach to a particular result. This interest may be due to validation of the analysis, suspicion of an error or to gain an understanding of new methodologies. Generating and providing an audit trail of work allows others follow or retrace the thought process in designing the code.  
 
-![GitHub Blame](assets/img/reproducible-code/github-blame.png)  
+![GitHub Blame](assets/img/github-blame.png)  
 
 This knowledge-sharing can be facilitated by publicly maintaining your source code with a version control system and including adequate and meaningful commit messages with each changes. Commit messages serve as a form of communication between team members working on a project and users outside of the project. Clear and descriptive messages provide valuable context about the changes made in a commit and why they were made, making it easier for others to understand and collaborate on the codebase. It allows team members to track the progress of specific features or bug fixes, review changes and provide feedback effectively.  
 
