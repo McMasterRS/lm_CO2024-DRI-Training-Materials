@@ -21,7 +21,7 @@ Open Data, Open Source Software, and Open Publication Access form the foundation
 
 ### DOI and Research Software
 
-As discussed in the previous section, DOIs ensure the ciability of research outputs, which include research software. DOIs are crucial to all [three levels of reproducible research software](https://mcmasterrs.github.io/lm_reproducible-rs/smp/smp.html#reproducibility-goal): research software for publication, research software as a tool and research software as infrastructure. 
+As discussed in the previous section, DOIs ensure the citability of research outputs, which include research software. DOIs are crucial to all [three levels of reproducible research software](https://mcmasterrs.github.io/lm_reproducible-rs/smp/smp.html#reproducibility-goal): research software for publication, research software as a tool and research software as infrastructure. 
 
 Software used for critical or novel elements of the research or its results should be cited in any publications. In this case, the specific version of the software used should be referenced. In this way DOIs provide an essential service for these specific citations with preserved meta-data about the software and version, and a location to find the specific software version relevant to the research.
 
