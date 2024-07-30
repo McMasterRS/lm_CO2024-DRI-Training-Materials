@@ -33,7 +33,7 @@ Follow the instructions provided to link your GitHub account with Zenodo. Once y
 
 ![zenodo-2](assets/img/zenodo-2.png)  
 
-Then go to the GitHub repository and [create a release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Zenodo will then automatically download the sources of the release and register a DOI. Once you have created a release, you will see the repository is marked as "Received" (in yellow) in Zenodo.  
+Then go to the GitHub repository and [create a release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Zenodo will then automatically download the sources of the release and register a DOI. Everytime you create a release in GitHub, you will see the repository is marked as "Received" (in yellow) in Zenodo.  
 
 > Zenodo will create a project-specific DOI and a version-specific DOI when indexing the first release. For subsequent releases, only version-specific DOIs will be created. You are encourage to share the project-specific DOIs to promote your software, as the project-specific DOIs will direct the users to the latest version of your project, and uses the version-specific DOIs in scenarios where reproducibility is desired.  
 
