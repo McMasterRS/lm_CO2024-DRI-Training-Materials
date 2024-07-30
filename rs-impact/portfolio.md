@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Building Portfolio
+title: Building Your Research Portfolio
 parent: Research Software and Research Impact
 nav_order: 3
 ---
 
-## Building Your Researcher Portfolio with ORCID
+## Building Your Researcher Portfolio with PIDs
 
 DOIs and ORCIDs work together to enhance the credibility, visibility, and attribution of scholarly research. DOIs provide unique identifiers for individual research outputs, while ORCIDs provide unique identifiers for researchers themselves. By linking the two, your scholarly works can be accurately attributed to you, facilitating better tracking of research impact and establishing reliable connections between researchers and their contributions. In the upcoming section we will explore the steps to connect your research software development with DOI and ORCID persistent identifiers to create a research profile.  
 
