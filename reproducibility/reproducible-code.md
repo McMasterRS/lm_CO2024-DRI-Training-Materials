@@ -73,28 +73,40 @@ Updates to libraries can lead to subtly different behaviours across versions. He
 pip freeze > requirements.txt
 ```
 
-The resulting `requirements.txt` files would include the list of all packages you have installed for running the software with the same versions. Other researchers may follow this file and install the same packages/libraries used to run the software, by running: 
+The resulting `requirements.txt` files would include the list of all packages you have installed for running the software with the same versions. Other researchers may follow this file and install the same packages/libraries used to run the software, by running:  
 
 ```bash
 pip install -r requirements.txt
 ```
-These dependency files help document these software requirements and help developers set up the same environment needed to develop and run the code.
 
-## More Formats to Preserve
+These dependency files help document these software requirements and help developers set up the same environment needed to develop and run the code.  
+
+### Container Images
+
+Some software can be built and shared as container images. Container images are self-contained, lightweight packages that encapsulate an application along with its dependencies and configuration settings. They are used in containerization technologies like Docker. Allowing users to easily retrieve and create containers and be able to run containers consistently across different computing environments.  
+
+## Distribution and Preservation Repositories
 
 A source code repository management service provides a centralized location for storing, managing and versioning source code files and related assets. These services offer tools and features to facilitate collaboration, code sharing, version control, and project management for software development teams. Also consider generating persistent identifiers (e.g. DOI) for snapshots in the repository using tools like [Zenodo](https://zenodo.org/).  
 
-Some software also can be built and shared as container images. Container images are self-contained, lightweight packages that encapsulate an application along with its dependencies and configuration settings. They are used in containerization technologies like Docker to create and run containers consistently across different environments. There exist container image repositories, which are centralised locations or cloud services that store and manage container images. For example, Docker offers a service called [Docker Hub](https://hub.docker.com/), which is an open-source registry to [store](https://docs.docker.com/engine/reference/commandline/push/).
+You may also add and host your software to a software package registry. A software package registry is a centralized repository, cloud service or database that hosts and manages software packages. It serves as a platform for developers and users to discover, download, install, and manage software libraries, frameworks, tools or applications. Software package registries provide a standardized way to distribute and share software components across different programming languages and platforms. The package installer for Python mentioned above, `pip`, download packages from a software package registry called [PyPI (Python Package Index)](https://pypi.org/).  
 
-A software package registry is a centralized repository, cloud service or database that hosts and manages software packages. It serves as a platform for developers and users to discover, download, install, and manage software libraries, frameworks, tools or applications. Software package registries provide a standardized way to distribute and share software components across different programming languages and platforms. The package installer for Python mentioned above, `pip`, download packages from a software package registry called [PyPI (Python Package Index)](https://pypi.org/).  
+There also exist container image repositories, which are centralized locations or cloud services that store and manage container images. These repositories are useful for distributing container images, but are not currently intended as a preservation system. Docker offers a service called [Docker Hub](https://hub.docker.com/), which is an open-source registry to [store](https://docs.docker.com/engine/reference/commandline/push/) container images and allows others to download and run your container images.  
 
-You may also consider adding your software to the [Research Software Directory](https://research-software-directory.org/). The Netherlands eScience Center developed the open-source research software directory to promote visibility, findability, impact and reuse of research software.  
+You may also consider adding your software to the [Research Software Directory](https://research-software-directory.org/). The Netherlands eScience Center developed the open-source research software directory to promote visibility, findability, impact and reuse of research software. The [Digital Research Alliance of Canada](https://alliancecan.ca/en/services/research-software/canadian-research-software-platforms) assists Canadian researchers to add their active research software, which meet the following requirements, to the Research Software Directory.  
+
+> 1. Is a Canadian Research Software (i.e., owned/led by a Canadian institution).
+> 2. Is a platform/science gateway, or a component of software that can be deployed independently.
+> 3. Is available via an open source license, or emerged from a publicly funded open-source project.
+> 4. Is currently maintained.
+> 5. It fits with the promotional mandate of the Alliance.
 
 Why might you need all these preservation methods, and when should you which? Each of these different repositories help promote different aspects of FAIR accessibility and reproducibility. Here are some general guidelines:  
 
 - **GitHub or other source code repository management services**, for storing actively developed software source code files and related assets for collaboration and current access.  
 - **Zenodo or other records repository**, for generating a persistent object identifier for your software and using it for long term stable storage and citations (via DOI persistent identifiers) in publications.  
 - **Research Software Directory**, for making your research software discoverable and findable in the research software community.  
+- **Software package registries and container image registries**, not necessarily best for preserving but good for hosting and distributing pre-built software packages/container images to a greater software development community.  
 
 ## Software Testing
 
