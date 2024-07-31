@@ -20,13 +20,13 @@ Jekyll requires the following:
 ### Instructions
 1. Install all [prerequisites](https://jekyllrb.com/docs/installation/). 
 2. Open a command-line terminal. 
-3. Install Jekyll and the bundler gems
+3. Install Jekyll and the bundler gems.
 
     ```bash
     gem install jekyll bundler
     ```
-4. Go to the directory where you want to save the site. For example, “C:\Users\user\Documents” 
-5. Run the commands
+4. Go to the directory where you want to save the site. For example, "C:\Users\user\Documents".
+5. Run the commands.
 
     ```bash
     jekyll new minima-site

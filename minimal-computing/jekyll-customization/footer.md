@@ -5,7 +5,7 @@ parent: Minimal Computing
 nav_order: 6
 ---
 
-### Create a File Named `footer_pages.yml` in `_data` folder
+## Create a File Named `footer_pages.yml` in `_data` folder
 
 An example of the `footer_pages.yml` file content is provided below:
 
@@ -16,7 +16,7 @@ links:
   - privacypolicy.md
 ```
 
-### Create a File Named `footer.html` in `_includes` folder
+## Create a File Named `footer.html` in `_includes` folder
 
 An example of the `footer.html` file content is provided below:
 

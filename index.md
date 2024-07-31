@@ -16,9 +16,9 @@ This learning module intends to provide guidance on how to prepare for and impro
 
 By the end of this learning module, readers will be able to:  
 
-- Have a high-level understanding of FAIR principles in a research software context
-- Consider a sustainable research software planning with the help of a software management plan
-- Develop and manage software to comply with FAIR4RS principles
-- Understand the principles and signifcance of minimal computing in promoting software preservation and reuse
-- Develop and deploy minimal computing sites using Jekyll and GitHub Pages, as an example
-- Understand the interconnection between open source research software and research impact through the use of persistent identifiers with practical guidance
+- Have a high-level understanding of FAIR principles in a research software context.
+- Consider a sustainable research software planning with the help of a software management plan.
+- Develop and manage software to comply with FAIR4RS principles.
+- Understand the principles and signifcance of minimal computing in promoting software preservation and reuse.
+- Develop and deploy minimal computing sites using Jekyll and GitHub Pages, as an example.
+- Understand the interconnection between open source research software and research impact through the use of persistent identifiers with practical guidance.

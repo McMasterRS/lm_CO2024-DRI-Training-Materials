@@ -48,7 +48,7 @@ For example:
 
 ![locate_theme](assets/img/locate_theme.png)
 
-c. Invoke explorer with the provided path, substituting `/` with `\`
+c. Invoke explorer with the provided path, substituting `/` with `\`.
 
 For example:
 
