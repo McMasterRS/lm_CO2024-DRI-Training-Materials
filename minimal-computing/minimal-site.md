@@ -6,11 +6,11 @@ nav_order: 2
 ---
 
 ## Building a minimal computing site
-Web sites are a common type of software developed for research. With modern web browsers, HTML5 and minimal computing design, much of the complexity of web sites can be removed, supporting the FAIR principles of reproducible software. It also results in a clean, modern design.  
+Websites are a common type of software developed for research. With modern web browsers, HTML5 and minimal computing design, much of the complexity of websites can be removed, supporting the FAIR principles of reproducible software. It also results in a clean, modern design.  
 
-These next sections detail how to build a minimal computing web site using available open-source technologies.
+These next sections detail how to build a minimal computing website using available open source technologies.
 
-We will be demonstrating this development using Jekyll, a free open-source static site generator that is built and runs on the Ruby programming language. It is a popular choice for building a minimal computing site due to its simplicity, flexibility, and efficiency.
+We will be demonstrating this development using Jekyll, a free open source static site generator that is built and runs on the Ruby programming language. It is a popular choice for building a minimal computing site due to its simplicity, flexibility, and efficiency.
 
 ### Prerequisites
 Jekyll requires the following:

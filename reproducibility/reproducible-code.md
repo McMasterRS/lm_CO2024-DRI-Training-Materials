@@ -55,7 +55,7 @@ def baz(z=42):
     return bar(z, 916)
 ```
 
-Aside from the software design perspective, employing middleware or integration platforms (e.g. Apache Kafka, an open-source distributed event streaming platform) that provide standardized interfaces and tools for connecting disparate software systems help achieving software interoperability. These platforms act as intermediaries, enabling communication, data transformation, and message routing between different applications.  
+Aside from the software design perspective, employing middleware or integration platforms (e.g. Apache Kafka, an open source distributed event streaming platform) that provide standardized interfaces and tools for connecting disparate software systems help achieving software interoperability. These platforms act as intermediaries, enabling communication, data transformation, and message routing between different applications.  
 
 ## Use of Non-proprietary and Lossless Formats
 
@@ -91,13 +91,13 @@ A source code repository management service provides a centralized location for 
 
 You may also add and host your software to a software package registry. A software package registry is a centralized repository, cloud service or database that hosts and manages software packages. It serves as a platform for developers and users to discover, download, install, and manage software libraries, frameworks, tools or applications. Software package registries provide a standardized way to distribute and share software components across different programming languages and platforms. The package installer for Python mentioned above, `pip`, download packages from a software package registry called [PyPI (Python Package Index)](https://pypi.org/).  
 
-There also exist container image repositories, which are centralized locations or cloud services that store and manage container images. These repositories are useful for distributing container images, but are not currently intended as a preservation system. Docker offers a service called [Docker Hub](https://hub.docker.com/), which is an open-source registry to [store](https://docs.docker.com/engine/reference/commandline/push/) container images and allows others to download and run your container images.  
+There also exist container image repositories, which are centralized locations or cloud services that store and manage container images. These repositories are useful for distributing container images, but are not currently intended as a preservation system. Docker offers a service called [Docker Hub](https://hub.docker.com/), which is an open source registry to [store](https://docs.docker.com/engine/reference/commandline/push/) container images and allows others to download and run your container images.  
 
-You may also consider adding your software to the [Research Software Directory](https://research-software-directory.org/). The Netherlands eScience Center developed the open-source research software directory to promote visibility, findability, impact and reuse of research software. The [Digital Research Alliance of Canada](https://alliancecan.ca/en/services/research-software/canadian-research-software-platforms) assists Canadian researchers to add their active research software, which meet the following requirements, to the Research Software Directory.  
+You may also consider adding your software to the [Research Software Directory](https://research-software-directory.org/). The Netherlands eScience Center developed the open source research software directory to promote visibility, findability, impact and reuse of research software. The [Digital Research Alliance of Canada](https://alliancecan.ca/en/services/research-software/canadian-research-software-platforms) assists Canadian researchers to add their active research software, which meet the following requirements, to the Research Software Directory.  
 
 > 1. Is a Canadian Research Software (i.e., owned/led by a Canadian institution).
 > 2. Is a platform/science gateway, or a component of software that can be deployed independently.
-> 3. Is available via an open source license, or emerged from a publicly funded open-source project.
+> 3. Is available via an open source license, or emerged from a publicly funded open source project.
 > 4. Is currently maintained.
 > 5. It fits with the promotional mandate of the Alliance.
 

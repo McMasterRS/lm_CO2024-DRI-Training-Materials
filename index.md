@@ -21,4 +21,4 @@ By the end of this learning module, readers will be able to:
 - Develop and manage software to comply with FAIR4RS principles
 - Understand the principles and signifcance of minimal computing in promoting software preservation and reuse
 - Develop and deploy minimal computing sites using Jekyll and GitHub Pages, as an example
-- Understand the interconnection between open-source research software and research impact through the use of persistent identifiers with practical guidance
+- Understand the interconnection between open source research software and research impact through the use of persistent identifiers with practical guidance

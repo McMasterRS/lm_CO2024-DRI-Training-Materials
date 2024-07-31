@@ -19,7 +19,7 @@ Research software should be developed and used in a way that promotes inclusivit
 
 # Licensing & Legal Compliance
 
-> **DISCLAIMER**: The following content is intended to highlight resources which may be useful to those developing open-source research software. This content is for informational purposes only. It is **NOT** legal advice. McMaster University and McMaster Research Software Development Team are not responsible for the content referenced in this guide, nor any and all costs, claims, losses, damages, expenses which may result through the application of this information. Be sure to contact a professional for legal advice.
+> **DISCLAIMER**: The following content is intended to highlight resources which may be useful to those developing open source research software. This content is for informational purposes only. It is **NOT** legal advice. McMaster University and McMaster Research Software Development Team are not responsible for the content referenced in this guide, nor any and all costs, claims, losses, damages, expenses which may result through the application of this information. Be sure to contact a professional for legal advice.
 
 It is encouraged to assign an appropriate license for your research software project. When choosing a license, consider the following:  
 
@@ -39,4 +39,4 @@ Should I share my research data and software source code using the same Creative
 
 > Unlike software-specific licenses, CC [Creative Commons] licenses do not contain specific terms about the distribution of source code, which is often important to ensuring the free reuse and modifiability of software. Many software licenses also address patent rights, which are important to software but may not be applicable to other copyrightable works. Additionally, our licenses are currently not compatible with the major software licenses, so it would be difficult to integrate CC [Creative Commons] -licensed work with other free software. Existing software licenses were designed specifically for use with software and offer a similar set of rights to the Creative Commons licenses.  
 
-Ethical considerations extend to intellectual property and licensing in research software development. Developers should respect copyright, properly attribute existing software components, and consider open-source licensing when appropriate. These practices help ensure the fair, responsible and legal use of intellectual property.  
+Ethical considerations extend to intellectual property and licensing in research software development. Developers should respect copyright, properly attribute existing software components, and consider open source licensing when appropriate. These practices help ensure the fair, responsible and legal use of intellectual property.  
