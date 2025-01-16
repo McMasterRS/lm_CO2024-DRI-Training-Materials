@@ -5,9 +5,9 @@ Materials for the McMaster Research Software learning module: **Research Softwar
 This repository contains learning module files, as well as files used to create the [learning module webpage](https://mcmasterrs.github.io/lm_CO2024-deliverables) with GitHub Pages.  
 
 Contributions by the following individuals: 
-- Learning module content created by Kelvin Lee, Ola Hejazi
-- Content edited for online use by Kelvin Lee 
-- Online pages created by Kelvin Lee 
+- Learning module content created by [Kelvin Lee](https://orcid.org/0009-0000-7340-3204), Ola Hejazi
+- Content edited for online use by [Kelvin Lee](https://orcid.org/0009-0000-7340-3204) 
+- Online pages created by [Kelvin Lee](https://orcid.org/0009-0000-7340-3204) 
 
 All content is made available under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 
