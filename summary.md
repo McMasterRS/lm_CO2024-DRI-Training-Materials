@@ -35,3 +35,13 @@ The US National Institutes of Health offers a concise yet informative resource o
 # Further Readings
 
 - [Ten quick tips for building FAIR workflows](https://doi.org/10.1371%2Fjournal.pcbi.1011369)
+
+# References
+
+- Creative Commons. (n.d.). Can I apply a Creative Commons license to software?. Retrieved July 30, 2024, from [https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software)
+- Government of Canada. (n.d.). GC white paper: Data sovereignty and the public cloud. Retrieved July 30, 2024, from [https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/gc-white-paper-data-sovereignty-public-cloud.html](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/cloud-services/gc-white-paper-data-sovereignty-public-cloud.html)
+- Martinez-Ortiz, C., Martinez Lavanchy, P., Sesink, L., Olivier, B. G., Meakin, J., de Jong, M., & Cruz, M. (2022). Practical guide to Software Management Plans (0.10). Zenodo. [https://doi.org/10.5281/zenodo.7185371](https://doi.org/10.5281/zenodo.7185371)
+- Office of the Privacy Commissioner of Canada. (n.d.). Privacy laws in Canada. Retrieved July 30, 2024, from [https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02_05_d_15](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02_05_d_15)
+- Sam Harrison, Abhishek Dasgupta, Simon Waldman, Alex Henderson, & Christopher Lovell. (2021). How reproducible should research software be?. Zenodo. [https://doi.org/10.5281/zenodo.4761867](https://doi.org/10.5281/zenodo.4761867)
+- Software Sustainability Institute. (n.d.). Writing and using a software management plan. Retrieved July 30, 2024, from [https://www.software.ac.uk/guide/writing-and-using-software-management-plan](https://www.software.ac.uk/guide/writing-and-using-software-management-plan)
+- Teresa Gomez-Diaz, Genevieve Romier. Research Software Management Plan template, V3.2. 2018. [⟨hal-01802565⟩](https://hal.archives-ouvertes.fr/hal-01802565)
